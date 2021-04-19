@@ -1,11 +1,5 @@
-@media only screen and (min-width: 768px) {
-  body {
-    background-color: blue;
-  }
-}
-
-@media only screen and (max-width: 960px) {
-  body {
-    background-color:red;
-  }
-}
+@import "./reset.css";
+@import "./base.css";
+@import "./layout.css";
+@import "./modules.css";
+@import "./theme.css";
