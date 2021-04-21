@@ -7,3 +7,8 @@ body {
   font-size: xx-large;
 }
 
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
